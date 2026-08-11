@@ -51,3 +51,21 @@ The general workflow includes:
 10. Final quality assessment
 
 Testing priorities are based on business impact, user impact, risk, and the criticality of the functionality being evaluated.
+
+## Requirements Analysis
+
+Before testing begins, I review the available requirements and identify the expected behavior of each feature.
+
+Key areas I consider include:
+
+- What should the feature do?
+- Who is the intended user?
+- What are the primary user flows?
+- What are the expected inputs and outputs?
+- What are the validation rules?
+- What happens when invalid data is provided?
+- What dependencies or integrations are involved?
+- What are the critical business rules?
+- What conditions could prevent the user from completing the intended flow?
+
+This analysis helps define the testing scope and ensures that testing is aligned with both functional requirements and real-world user behavior.
