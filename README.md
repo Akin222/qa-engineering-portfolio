@@ -24,3 +24,11 @@ This repository contains documentation, test scenarios, defect reports, test evi
 ## Objective
 
 To demonstrate practical experience in identifying defects, validating software requirements, documenting test results, and communicating quality risks throughout the software testing process.
+
+## About This Portfolio
+
+This portfolio documents my hands-on software testing experience across web applications, APIs, mobile applications, and other digital products.
+
+Each project focuses on practical QA activities such as requirements analysis, test planning, test scenario design, functional validation, exploratory testing, defect identification, regression testing, and test reporting.
+
+The goal is to demonstrate how I approach software quality from both a user and product perspective, while clearly communicating defects, risks, and testing outcomes.
